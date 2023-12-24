@@ -1,10 +1,6 @@
 <h1 align="start">Hi there 👋</h1>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=bradenwatson&label=Profile%20views&color=0e75b6&style=flat" alt="bradenwatson GitHub profile view counter" />
-</p>
-
-<p align="left">
     <ul>
         <li>👨‍💻 I'm Braden Watson</li>
         <li>🏢 I'm studying programming at North Metropolitan TAFE</li>
